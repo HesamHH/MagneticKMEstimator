@@ -1,2 +1,2 @@
 # MagneticKMEstimator
-This tool estimates the total kilometers of survey lines for a magnetic aerial survey based and number of the points for ground survey based.
+This tool estimates the total kilometers of survey lines for a magnetic aerial survey and the number of points for a ground survey based on user inputs.
